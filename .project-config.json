@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/isy2JZz9XMpDmKYXfh5Xs4.git",
+    "expiration": "2026-08-17T21:16:23.303Z",
+    "token": "art_v2_x_d688f89a1c13662af08b158535b0a3dae9ba2f0e?expires=1787001383",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "husam-portfolio",
+  "path": "/home/ubuntu/husam-portfolio",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "8TQbVozrnHYkYea3356gJg",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "EvCFdYLkHV7g2QAndWJzcC",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Husam Mohamed",
+    "OWNER_OPEN_ID": "WmSVsAQbTJEbejGYHWBz8A",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "eaa621fd-657d-4b75-bfab-7ce0bbe95b78",
+    "VITE_APP_ID": "isy2JZz9XMpDmKYXfh5Xs4",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Husam Mohammed — Full-Stack \u0026 React Native Developer",
+    "VITE_FRONTEND_FORGE_API_KEY": "LmrRL6TSbH4EwTRaEYpfGJ",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
